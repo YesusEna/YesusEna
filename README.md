@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics and Business Intelligence Projects:</h2>
 
-- <b>Project 1: SpreadSheet Data Analysis (NYC Airbnb Data Set) project</b>
+- <b>Project 1: SpreadSheet Data Analysis (NYC Airbnb Data Set)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
     
