@@ -30,7 +30,7 @@
 - Created left join connections betwwen Orders Table and Returened Table and identify products with abnormal rates of returned to store
 - Presented a visual argument on why SuperStore should keep selling particular products and doing business in specific geographic regions </b>
 
-  - [Mockup of TableU Containers for visualization](https://docs.google.com/spreadsheets/d/1x7PAOG8YIWZSN9ct6-Ox5EBKGvdcwQ_m2qIe7_9HcoE/edit?usp=sharing)
+  - [Mockup of Tableau Containers for visualization](https://docs.google.com/spreadsheets/d/1x7PAOG8YIWZSN9ct6-Ox5EBKGvdcwQ_m2qIe7_9HcoE/edit?usp=sharing)
   - [Draft Mockup Containers](https://docs.google.com/spreadsheets/d/12WYt-kVPU4A2JrpMZjRm-rRLbD4qjJYG/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
   - [Presentation of Key Trends Causing Returns (Presentation)](https://docs.google.com/presentation/d/1umKWBUKOXL1xSp1vAezXcALg5jWoUYDK/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
   - [Causes of Returns and Product Return Management](https://public.tableau.com/views/STORYTELLINGWITHTABLEAUBook1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -41,12 +41,15 @@
 - Identified key factors that play a role in the success of apps on Shopify platform
 - Employed Power BI DAX Expressions to create new columns filtered to analyse average app reviews and ratings</b>
   - [A Review of Landscape of Apps on Shopify Platform](https://docs.google.com/spreadsheets/d/1h8oL1Mr-mhjdPmDJqRqZdpqs7iiJ42DJOYers8fKWSc/edit?usp=sharing)
+  - [App LandScape Analysis ( Idetifying factors for App success](https://app.powerbi.com/groups/me/list?experience=power-bi)
     
     
 - <b>Project 6: Customer Analysis Segmentation of Zomato (a multinational restaurant aggregator and food delivery company)
 - Purchasing behavior and customer segmentation (from multiple data sets)
 - Conducting research, generating hypothesis and questions to guide analysis, generating a project decomposition plan and mockup design for visualization of insights.
--    </b>
+ - [Decomposition plan of Problem Statement and Container Mockup](https://docs.google.com/spreadsheets/d/1hV6Cm3MhRZx96bvKtojLHTJyw-8Z32GaDYhzOE-P4eM/edit?usp=sharing)
+ - [Customer Segmentation and Purchasing Behavior](https://public.tableau.com/views/UPDATTEDFINALPROJECT-YESUSENA/ZamatosCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+ - [Presentation of Data Story Line addressing problem statement](https://docs.google.com/presentation/d/1MEarsaq56I8NZAXzCqRu3_lyK-lvV81s/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
 
 <h2>TripleTen Graduate Endorsement, 2024 </h2>
 
