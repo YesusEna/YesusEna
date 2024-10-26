@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yesus Ena! <br/><a 
 
-<h2>👨‍💻 Data Analytics and Business Intelligence Projects:</h2>
+<h2>👨‍💻 Project 1: Data Analytics and Business Intelligence:</h2>
 
 - <b>SpreadSheet Data Analysis (NYC Airbnb Data Set) project</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
