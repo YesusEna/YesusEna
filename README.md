@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Data Analytics and Business Intelligence Projects:</h2>
 
-- <b>Project 1: SpreadSheet Data Analysis (NYC Airbnb Data Set)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project 1: SpreadSheet Data Analysis
+- Optimizing Operations and Business Performance on Fresh Beat Dynamic Online  Platform (online music sharing platform) to Improve Streaming, Engagement of Users, and visibility for Artists.</b>
+  - [User Data Analysis](https://docs.google.com/spreadsheets/d/1cD7Boge2K6DJ3aTJQ6-l615oshyRUdm3kEcFbZwJkaw/edit?usp=sharing)
+  - [Project status report and receommendations](https://docs.google.com/document/d/1lJVfLP8kztqAxxQishqC4Ci6aUZw_8x7b0B2o6B-X5g/edit?usp=sharing)
     
     
-- <b> Project 2: Data Collection and Storage with SQL (Zuber Ride-Sharing Company Data Set) launching in Chicago</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Project 2: Manhattan vacation rental market Analysis
+- Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals? and How much money would these listings generate?</b>
+  - [Executive Summary with Assumptions & change logs included](https://docs.google.com/spreadsheets/d/1z9C0dAn7hjvEZ-z9EcpFhvgfeZJmWFlcZr51ZMv4Ggg/edit?usp=sharing)
+  - [Pivot Table Analytics and Visualizations](https://docs.google.com/spreadsheets/d/1z9C0dAn7hjvEZ-z9EcpFhvgfeZJmWFlcZr51ZMv4Ggg/edit?usp=sharing)
   
   
 - <b>Project 3: Business Analytics Project (Funnel Metrics & Cohort Analysis):
@@ -16,28 +20,27 @@
 - Building a Conversion Funnel 
 - Preparing Data for Cohort Analysis by building acquisitioon cohorts based on month of user's first purchase and tracking cohorts metrics month by month
 - Calculating retention rates for each cohort by aggregating purchase data into the various cohorts</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-    
+  - [Executive Summary and Recommendations](https://docs.google.com/spreadsheets/d/1dZvMCtVKmnJvZz1W61WKG1ZY0_ZTVLnuWQKGRNQYUrU/edit?usp=sharing)
+  - [Conversion Funnel with Retention Rate Percentatges and Cohort Analysis](https://docs.google.com/spreadsheets/d/1dZvMCtVKmnJvZz1W61WKG1ZY0_ZTVLnuWQKGRNQYUrU/edit?usp=sharing)
     
 - <b>Project 4: Data Visualization with Tableau:
-- Hired as a consultant to help review business operations of SuperStore in peril incrase profitability and avoid bankruptcy
-- Identifying biggest profit centers and loss makers
+- Hired as a consultant to help review business operations of SuperStore in peril increase profitability and avoid bankruptcy
+- Identifying biggest profit centers and loss makers in business operations
 - Calculating Return on Ad Spend Ratio to determine three best States and months of the year to advertise
 - Created left join connections betwwen Orders Table and Returened Table and identify products with abnormal rates of returned to store
 - Presented a visual argument on why SuperStore should keep selling particular products and doing business in specific geographic regions </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+  - [Mockup of TableU Containers for visualization](https://docs.google.com/spreadsheets/d/1x7PAOG8YIWZSN9ct6-Ox5EBKGvdcwQ_m2qIe7_9HcoE/edit?usp=sharing)
+  - [Draft Mockup Containers](https://docs.google.com/spreadsheets/d/12WYt-kVPU4A2JrpMZjRm-rRLbD4qjJYG/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
+  - [Presentation of Key Trends Causing Returns (Presentation)](https://docs.google.com/presentation/d/1umKWBUKOXL1xSp1vAezXcALg5jWoUYDK/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
+  - [Causes of Returns and Product Return Management](https://public.tableau.com/views/STORYTELLINGWITHTABLEAUBook1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
     
 - <b>Project 5: Shopify App Analysis with Power BI 
 - Reviewing the landscape of apps on the Shopify platform using public data scrapped from publicly available Shopify websites
 - Identified key factors that play a role in the success of apps on Shopify platform
 - Employed Power BI DAX Expressions to create new columns filtered to analyse average app reviews and ratings</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [A Review of Landscape of Apps on Shopify Platform](https://docs.google.com/spreadsheets/d/1h8oL1Mr-mhjdPmDJqRqZdpqs7iiJ42DJOYers8fKWSc/edit?usp=sharing)
     
     
 - <b>Project 6: Customer Analysis Segmentation of Zomato (a multinational restaurant aggregator and food delivery company)
