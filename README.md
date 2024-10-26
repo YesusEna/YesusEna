@@ -51,7 +51,9 @@
   -  [Customer Segmentation and Purchasing Behavior](https://public.tableau.com/views/UPDATTEDFINALPROJECT-YESUSENA/ZamatosCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
   -  [Presentation of Data Story Line addressing problem statement](https://docs.google.com/presentation/d/1MEarsaq56I8NZAXzCqRu3_lyK-lvV81s/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
 
-<h2>TripleTen Graduate Endorsement, 2024 </h2>
+<h2>TripleTen Graduate Endorsement, 2024 
+![image](https://github.com/user-attachments/assets/a711a9e6-c0fb-4532-89e7-6095671e1076)
+</h2>
 
 <h2>DOD Security Clarance </h2>
 -Possess a DOD Secret Security Clarance to work on sensitive data
