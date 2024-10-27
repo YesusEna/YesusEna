@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics and Business Intelligence Projects:</h2>
 
 - <b>Project 1: SpreadSheet Data Analysis
-- Optimizing Operations and Business Performance on Fresh Beat Dynamic Online  Platform (online music sharing platform) to Improve Streaming, Engagement of Users, and visibility for Artists.</b>
+- Optimizing Operations and Business Performance on Fresh Beat Dynamic Online  Platform (online music sharing platform) to Improve Streaming, Engagement of Users, and Visibility for Artists.</b>
   - [User Data Analysis](https://docs.google.com/spreadsheets/d/1cD7Boge2K6DJ3aTJQ6-l615oshyRUdm3kEcFbZwJkaw/edit?usp=sharing)
   - [Project status report and receommendations](https://docs.google.com/document/d/1lJVfLP8kztqAxxQishqC4Ci6aUZw_8x7b0B2o6B-X5g/edit?usp=sharing)
     
