@@ -42,7 +42,7 @@
 - Identified key factors that play a role in the success of apps on Shopify platform
 - Employed Power BI DAX Expressions to create new columns filtered to analyse average app reviews and ratings</b>
   - [A Review of Landscape of Apps on Shopify Platform](https://docs.google.com/spreadsheets/d/1h8oL1Mr-mhjdPmDJqRqZdpqs7iiJ42DJOYers8fKWSc/edit?usp=sharing)
-  - [App LandScape Analysis ( Idetifying factors for App success](https://app.powerbi.com/groups/me/list?experience=power-bi)
+  - [App LandScape Analysis ( Idetifying factors for App success)](https://app.powerbi.com/groups/me/list?experience=power-bi)
     
     
 - <b>Project 6: Customer Analysis Segmentation of Zomato (a multinational restaurant aggregator and food delivery company)
