@@ -34,7 +34,7 @@
   - [Draft Mockup Containers](https://docs.google.com/spreadsheets/d/12WYt-kVPU4A2JrpMZjRm-rRLbD4qjJYG/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
   - [Biggest Profit and Loss Centers, Products with Negative Profit Margins](https://public.tableau.com/views/UPDATTEDDATAVISUALIZATIONWITHTABLEAUDASH/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Presentation of Key Trends Causing Returns (Presentation)](https://docs.google.com/presentation/d/1umKWBUKOXL1xSp1vAezXcALg5jWoUYDK/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
-  - [Causes of Returns and Product Return Management](https://public.tableau.com/views/STORYTELLINGWITHTABLEAUBook1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Causes of Returns and Product Return Management(click on edit button to view full report)](https://public.tableau.com/views/STORYTELLINGWITHTABLEAUBook1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
     
 - <b>Project 5: Shopify App Analysis with Power BI 
