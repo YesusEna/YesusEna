@@ -8,7 +8,7 @@
   - [Project status report and receommendations](https://docs.google.com/document/d/1lJVfLP8kztqAxxQishqC4Ci6aUZw_8x7b0B2o6B-X5g/edit?usp=sharing)
     
     
-- <b> Project 2: Manhattan vacation rental market Analysis
+- <b> Project 2: Manhattan Vacation Rental Market Analysis
 - Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals? and How much money would these listings generate?</b>
   - [Executive Summary with Assumptions & change logs included](https://docs.google.com/spreadsheets/d/1z9C0dAn7hjvEZ-z9EcpFhvgfeZJmWFlcZr51ZMv4Ggg/edit?usp=sharing)
   - [Pivot Table Analytics and Visualizations](https://docs.google.com/spreadsheets/d/1z9C0dAn7hjvEZ-z9EcpFhvgfeZJmWFlcZr51ZMv4Ggg/edit?usp=sharing)
