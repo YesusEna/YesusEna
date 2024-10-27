@@ -47,7 +47,7 @@
     
 - <b>Project 6: Customer Segmentation Analysis of Zomato (a multinational restaurant aggregator and food delivery company)
 - Analysing customer purchasing behavior and customer segmentation (from multiple data sets)
-- Conducting research on business problem, generating hypothesis and questions to help guide analysis
+- Understanding the probelm, conducting research on the business problem, generating hypothesis and questions to help guide analysis
 - Design of a project decomposition plan and low-fidelity mockup of dashbord design for visualization of insights.
   -  [Decomposition plan of project's problem statement with a Tableau Container Mockup](https://docs.google.com/spreadsheets/d/1hV6Cm3MhRZx96bvKtojLHTJyw-8Z32GaDYhzOE-P4eM/edit?usp=sharing)
   -  [Analysis of Customer Segmentation and Purchasing Behavior(click on edit button to view full report)](https://public.tableau.com/views/UPDATTEDFINALPROJECT-YESUSENA/ZamatosCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
