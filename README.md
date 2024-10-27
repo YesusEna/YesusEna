@@ -67,12 +67,12 @@
 
 Some ideas and key areas for advancement:
 
-- 🔭 I’m currently working on ...Advancing my skills on the Power BI Tool to help me become a BI Developer and be more resourceful in my role.
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ...On challenging tech projects that can help me think outside the box and be more inoovative in approaching problems
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Advancing my skills on the Power BI Tool to help me become a BI Developer and be more resourceful in my role.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate On challenging tech projects that can help me think outside the box and be more inoovative in approaching problems
+- 🤔 I’m looking for help with Alteryx ( A data analysis tool) to add to my tool collection and skills.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: People person, open minded, versatile.
 -->
