@@ -49,8 +49,8 @@
 - Purchasing behavior and customer segmentation (from multiple data sets)
 - Conducting research, generating hypothesis and questions to guide analysis, generating a project decomposition plan and mockup design for visualization of insights.
   -  [Decomposition plan of Problem Statement and Container Mockup](https://docs.google.com/spreadsheets/d/1hV6Cm3MhRZx96bvKtojLHTJyw-8Z32GaDYhzOE-P4eM/edit?usp=sharing)
-  -  [Customer Segmentation and Purchasing Behavior](https://public.tableau.com/views/UPDATTEDFINALPROJECT-YESUSENA/ZamatosCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-  -  [Presentation of Data Story Line addressing problem statement](https://docs.google.com/presentation/d/1MEarsaq56I8NZAXzCqRu3_lyK-lvV81s/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
+  -  [Analysis of Customer Segmentation and Purchasing Behavior](https://public.tableau.com/views/UPDATTEDFINALPROJECT-YESUSENA/ZamatosCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+  -  [Presentation of Data Story Line Addressing Problem Statement](https://docs.google.com/presentation/d/1MEarsaq56I8NZAXzCqRu3_lyK-lvV81s/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
 
 <h2>TripleTen Graduate Endorsement, 2024 
   
