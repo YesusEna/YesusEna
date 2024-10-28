@@ -14,7 +14,7 @@
   - [Pivot Table Analytics and Visualizations](https://docs.google.com/spreadsheets/d/1z9C0dAn7hjvEZ-z9EcpFhvgfeZJmWFlcZr51ZMv4Ggg/edit?usp=sharing)
   
   
-- <b>Project 3: Business Analytics Project (Funnel Metrics & Cohort Analysis):
+- <b>Project 3: Business Analytics Project (Funnel Metrics & Cohort Analysis)
 - Turning event logs into business metrics
 - Analysing raw transaction logs for various users on the online e-commerce platform from data set with multiple columns
 - Building a Conversion Funnel 
@@ -23,7 +23,7 @@
   - [Executive Summary and Recommendations](https://docs.google.com/spreadsheets/d/1dZvMCtVKmnJvZz1W61WKG1ZY0_ZTVLnuWQKGRNQYUrU/edit?usp=sharing)
   - [Conversion Funnel with Retention Rate Percentatges and Cohort Analysis](https://docs.google.com/spreadsheets/d/1dZvMCtVKmnJvZz1W61WKG1ZY0_ZTVLnuWQKGRNQYUrU/edit?usp=sharing)
     
-- <b>Project 4: Data Visualization with Tableau:
+- <b>Project 4: Data Visualization with Tableau
 - Hired as a consultant to help review business operations of SuperStore in peril increase profitability and avoid bankruptcy
 - Identifying biggest profit centers and loss makers in business operations
 - Calculating Return on Ad Spend Ratio to determine three best States and months of the year to advertise
