@@ -67,7 +67,7 @@
 
 Some ideas and key areas for advancement:
 
-- 🔭With a background in policy and planning, a key area of advancement in my career would be to contribute to Data Governance in an organization by designing, maintaining, and implementing policies, procedures, frameworks, and standards for data collection, storage, and use.Ths will help manage, organize, and control data assets, ensuring data quality, data security, data useability, availability and access. 
+- 🔭With a background in policy and planning, a key area of advancement in my career would be to contribute to Data Governance in an organization by understanding the business needs and designing, maintaining, and implementing policies, procedures, frameworks, and standards for data collection, storage, and use.Ths will help manage, organize, and control data assets, ensuring data quality, data security, data useability, availability and access. 
 - I’m currently working on Advancing my skills on the Power BI Tool to help me become a BI Developer and be more resourceful in my role.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate On challenging tech projects that can help me think outside the box and be more inoovative in approaching problems
