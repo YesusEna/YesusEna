@@ -54,6 +54,9 @@
   -  [Presentation of Data Story Line Addressing Problem Statement](https://docs.google.com/presentation/d/1MEarsaq56I8NZAXzCqRu3_lyK-lvV81s/edit?usp=sharing&ouid=100533234730281498308&rtpof=true&sd=true)
 
 <h2>TripleTen Graduate Endorsement, 2024 
+
+<![image](https://github.com/user-attachments/assets/815aaa4b-aa5c-4b79-86e8-8a63489648bd)
+>
   
    ![image](https://github.com/user-attachments/assets/a711a9e6-c0fb-4532-89e7-6095671e1076)
     </h2>
