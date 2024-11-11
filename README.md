@@ -66,7 +66,7 @@
 
 <h2> 🤳 Connect with me:</h2>   www.linkedin.com/in/yesus-ena
 
-Some ideas and key areas for advancement:
+Some ideas and key areas for advancement: Working on my CompTIA Security+ Cert
 
 - 🔭With a background in policy and planning, a key area of advancement in my career would be to contribute to Data Governance (Data Governence Analyst) in an organization by understanding the business problem, then, formulate, implementing, and evalute policies and frameworks for data collection, storage, and use.Ths helps manage, organize, and control data assets, ensuring data quality, data security, data useability, availability and access. 
 - I’m currently working on Advancing my skills on the Power BI Tool to help me become a BI Developer and be more resourceful in my role.
