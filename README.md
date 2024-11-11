@@ -69,7 +69,7 @@
 Some ideas and key areas for advancement: 
 
 - 🔭With a background in policy and planning, a key area of advancement in my career would be to contribute to Data Governance (Data Governence Analyst) in an organization by understanding the business problem, then, formulate, implementing, and evalute policies and frameworks for data collection, storage, and use.Ths helps manage, organize, and control data assets, ensuring data quality, data security, data useability, availability and access. 
-- I’m currently working on Working on my CompTIA Security+ Certif
+- I’m currently working on my CompTIA Security+ Cert
 - 🌱 I’m currently learning and advancing my skills on Python
 - 👯 I’m looking to collaborate on challenging tech projects that can help me think outside the box and be more inoovative in approaching problems
 - 🤔 I’m also learning Alteryx ( A data processing tool) to add to my tool collection and skills.
