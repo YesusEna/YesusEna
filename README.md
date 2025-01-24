@@ -58,7 +58,7 @@
 <![image](https://github.com/user-attachments/assets/5775851b-50a1-41f4-ba10-d7f70c338928)
 >
   
-    </h2>
+    
 
 <h2>DOD Security Clearance </h2>
 -DOD Security Cleared Professional
