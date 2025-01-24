@@ -58,7 +58,6 @@
 <![image](https://github.com/user-attachments/assets/5775851b-50a1-41f4-ba10-d7f70c338928)
 >
   
-   ![image](https://github.com/user-attachments/assets/a711a9e6-c0fb-4532-89e7-6095671e1076)
     </h2>
 
 <h2>DOD Security Clearance </h2>
